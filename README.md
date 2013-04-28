@@ -1,15 +1,3 @@
 # flickrgpx #
 
-## Build & run ##
-
-```sh
-$ cd flickrgpx
-$ chmod u+x sbt
-$ ./sbt
-> +run
-```
-
-## Contact ##
-
-- Michael Hamrah
-- <a href="mlh@michaelhamrah.com">mlh@michaelhamrah.com</a>
+FlickrGpx is an app to link GPX data to Flickr Photos.  I wrote this to learn Scala.  See [my blog post, http://wp.me/pnRto-dW](http://wp.me/pnRto-dW).
