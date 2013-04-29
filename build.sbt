@@ -125,6 +125,9 @@ libraryDependencies ++= Seq (
   // "org.scalacheck" %% "scalacheck" % "1.10.0" % "test",
   , "org.specs2" %% "specs2" % "1.14" % "test"
   , "org.scalatest" % "scalatest_2.10" % "1.9.1" % "test"
+  , "org.mockito" % "mockito-core" % "1.9.0" % "test"
+  , "org.scalamock" %% "scalamock-scalatest-support" % "3.0.1" % "test" 
+  , "com.aetrion.flickr" % "flickrapi" % "1.1"
 )
 
 /* you may need these repos */
@@ -185,7 +188,6 @@ pomExtra := (
       <id>mhamrah</id>
       <name>Michael Hamrah</name>
       <email>mlh@michaelhamrah.com</email>
-//    <url>http://johndoe.com</url>
     </developer>
   </developers>
 )

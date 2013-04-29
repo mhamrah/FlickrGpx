@@ -1,4 +1,5 @@
 package com.michaelhamrah.flickrgpx
+
 import scala.xml._
 import com.github.nscala_time.time.Imports._
 import scala.language.implicitConversions
