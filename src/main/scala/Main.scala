@@ -9,8 +9,6 @@ object Main {
     //We need the getOrElse otherwise flatMap won't concat the lists.
     //Opportunity to refator this into a for-comp or something more scala-esque
     val waypoints = args.flatMap(GetWaypointsFromGpxFile(_).getOrElse(Nil)).distinct.groupBy(_.time.toString("yyyy-MM-dd"))
-   
-
 
   }
 }

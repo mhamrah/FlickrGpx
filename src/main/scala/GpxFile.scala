@@ -17,7 +17,7 @@ object GpxFile {
     try {
       val data = XML.loadFile(file) 
       
-      val waypoints = (data \ "wpt") filter (node => (node \ "time").nonEmpty) map (node => BuildWaypoint(node))
+      val waypoints = (data \ "wpt") filter (node => (node \ "time").nonEmpty) map BuildWaypoint
 
       Some(waypoints)
     }
