@@ -5,7 +5,7 @@ import com.github.nscala_time.time.Imports._
 import scala.language.implicitConversions
 
 object GpxFile {
-  implicit def NodeSeqToDouble(value: NodeSeq) = {
+  implicit def NodeSeqToDouble(value: NodeSeq):Double = {
     value.text match {
       case "" => 0.0
       case s:String => s.toDouble
