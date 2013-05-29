@@ -7,7 +7,7 @@ class FlickrUpdaterSpec extends FreeSpec with ShouldMatchers with MockFactory {
 
   "FlickrUpdater" - {
     "should return images for a particular day" in {
-      pending
+      FlickrUpdater.searchByDay("2012-12-13")
     }
   }
 }

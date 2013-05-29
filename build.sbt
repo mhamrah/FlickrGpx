@@ -117,7 +117,7 @@ libraryDependencies ++= Seq (
   // "org.json4s" %% "json4s-native" % "3.1.0",
   // "com.fasterxml.jackson.module" %% "jackson-module-scala" % "2.1.3",
   // -- concurrency --
-  // "com.typesafe.akka" %% "akka-actor" % "2.2-SNAPSHOT",
+   ,"com.typesafe.akka" %% "akka-actor" % "2.1.4"
   // "org.scala-stm" %% "scala-stm" % "0.7",
   // -- network --
    // "net.databinder.dispatch" %% "dispatch-core" % "0.9.2",
@@ -127,6 +127,8 @@ libraryDependencies ++= Seq (
   , "org.scalatest" % "scalatest_2.10" % "1.9.1" % "test"
   , "org.mockito" % "mockito-core" % "1.9.0" % "test"
   , "org.scalamock" %% "scalamock-scalatest-support" % "3.0.1" % "test" 
+  , "io.spray" % "spray-client" % "1.1-M7"
+  , "org.scribe" % "scribe" % "1.3.3"
 )
 
 /* you may need these repos */
@@ -138,7 +140,7 @@ resolvers ++= Seq(
   // Resolver.typesafeRepo("snapshots")
   // JavaNet2Repository,
   // JavaNet1Repository,
-  // "spray repo" at "http://repo.spray.io",
+  "spray repo" at "http://repo.spray.io"
 )
 
 // ivyXML := <dependencies>

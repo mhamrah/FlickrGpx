@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1"
+ creator="DeLorme Earthmate PN-Series GPS - http://www.delorme.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:delorme="http://www.delorme.com/schema/gpx_extension"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+ http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd
+ http://www.delorme.com/schema/gpx_extension http://www.delorme.com/schema/gpx_extension/DeLormeGPXSchema1_1.xsd">
+<metadata>
+	<name>Se 2</name>
+	<extensions>
+		<delorme:waypointGUID>2b151d68-1dd2-11b2-9a3e-4d4845395644</delorme:waypointGUID>
+		<delorme:defaultsymbol>1</delorme:defaultsymbol>
+		<delorme:filestats>
+			<delorme:wptcount>102</delorme:wptcount>
+			<delorme:geocachecount>0000</delorme:geocachecount>
+		</delorme:filestats>
+	</extensions>
+</metadata>
+<wpt lat="19.323854566" lon="103.143175960">
+	<ele>1106.273315</ele>
+	<time>2013-02-09T08:43:12Z</time>
+	<name>Laos</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1ad86310-1dd2-11b2-9bc5-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="19.375336885" lon="103.165159345">
+	<ele>1102.609619</ele>
+	<time>2013-02-09T09:02:56Z</time>
+	<name>Laos 002</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>3563212a-1dd2-11b2-9bc5-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.964702129" lon="102.607172370">
+	<ele>178.875763</ele>
+	<time>2013-02-10T12:04:29Z</time>
+	<name>Laos 003</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>24d27950-1dd2-11b2-893d-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.964565754" lon="102.605596900">
+	<ele>186.903748</ele>
+	<time>2013-02-11T05:05:05Z</time>
+	<name>Laos 004</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>16c8a64a-1dd2-11b2-93ed-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.961967826" lon="102.605533361">
+	<ele>142.861649</ele>
+	<time>2013-02-11T06:06:09Z</time>
+	<name>Laos 005</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>194930c4-1dd2-11b2-93fc-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.962879419" lon="102.611190319">
+	<ele>173.147217</ele>
+	<time>2013-02-11T06:54:08Z</time>
+	<name>Laos 006</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>188c1ee4-1dd2-11b2-93fd-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.888093710" lon="102.734158874">
+	<ele>176.921478</ele>
+	<time>2013-02-11T08:36:40Z</time>
+	<name>Laos 007</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2ba6f742-1dd2-11b2-93fe-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.961811662" lon="102.611401558">
+	<ele>180.026566</ele>
+	<time>2013-02-11T07:10:56Z</time>
+	<name>Laos 008</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>3549400c-1dd2-11b2-93fd-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.896437407" lon="102.746292949">
+	<ele>179.444183</ele>
+	<time>2013-02-11T08:50:39Z</time>
+	<name>Laos 009</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2b57bc40-1dd2-11b2-93ff-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.912829041" lon="102.764642358">
+	<ele>180.146835</ele>
+	<time>2013-02-11T08:57:08Z</time>
+	<name>Laos 010</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1898be2e-1dd2-11b2-9400-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.912642360" lon="102.764654994">
+	<ele>188.886612</ele>
+	<time>2013-02-11T09:02:28Z</time>
+	<name>Laos 011</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>24ade05e-1dd2-11b2-9400-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.912565827" lon="102.764778972">
+	<ele>177.858185</ele>
+	<time>2013-02-11T09:14:00Z</time>
+	<name>Laos 012</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>13d68ca4-1dd2-11b2-9401-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="17.911827564" lon="102.765619040">
+	<ele>186.274841</ele>
+	<time>2013-02-11T09:19:27Z</time>
+	<name>Laos 013</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>23e4061c-1dd2-11b2-9401-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.963148713" lon="105.921641469">
+	<ele>85.130989</ele>
+	<time>2013-02-13T06:39:01Z</time>
+	<name>Laos 014</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1491b56a-1dd2-11b2-99d3-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.954273820" lon="105.914507151">
+	<ele>91.943420</ele>
+	<time>2013-02-13T07:16:32Z</time>
+	<name>Laos 015</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>26f320c2-1dd2-11b2-99d3-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.952913046" lon="105.912480116">
+	<ele>90.774223</ele>
+	<time>2013-02-13T07:35:14Z</time>
+	<name>Laos 016</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1c23735e-1dd2-11b2-99d4-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.950847864" lon="105.911278844">
+	<ele>63.496521</ele>
+	<time>2013-02-13T07:55:05Z</time>
+	<name>Laos 017</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>16ee3a4a-1dd2-11b2-99d5-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.937002897" lon="105.930281401">
+	<ele>81.891602</ele>
+	<time>2013-02-13T08:48:33Z</time>
+	<name>Laos 018</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2763ecf8-1dd2-11b2-976d-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.932484746" lon="105.954446554">
+	<ele>58.329636</ele>
+	<time>2013-02-13T09:10:10Z</time>
+	<name>Laos 019</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>198b058a-1dd2-11b2-8405-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.936548114" lon="105.930851102">
+	<ele>57.078144</ele>
+	<time>2013-02-13T09:52:40Z</time>
+	<name>Laos 020</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2b6b9e7c-1dd2-11b2-8545-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.958358526" lon="105.920249462">
+	<ele>44.454491</ele>
+	<time>2013-02-13T10:24:13Z</time>
+	<name>Laos 021</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1bb8e17e-1dd2-11b2-9b9a-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.953060150" lon="105.936096311">
+	<ele>45.981865</ele>
+	<time>2013-02-14T05:33:25Z</time>
+	<name>Laos 022</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>22943ee4-1dd2-11b2-9932-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.953710794" lon="105.936540127">
+	<ele>74.449181</ele>
+	<time>2013-02-14T05:40:11Z</time>
+	<name>Laos 023</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1a6a9c72-1dd2-11b2-9933-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="13.937640667" lon="105.947712421">
+	<ele>103.238449</ele>
+	<time>2013-02-14T06:16:22Z</time>
+	<name>Laos 024</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>20ecb3a0-1dd2-11b2-9933-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.095682383" lon="106.212090373">
+	<ele>1239.137451</ele>
+	<time>2013-02-16T03:45:22Z</time>
+	<name>Laos 025</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>209f874c-1dd2-11b2-8eee-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.070318460" lon="106.209211469">
+	<ele>1247.116089</ele>
+	<time>2013-02-16T05:34:02Z</time>
+	<name>Laos 026</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>14d9ddc2-1dd2-11b2-8564-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.067849874" lon="106.207679868">
+	<ele>1244.162598</ele>
+	<time>2013-02-16T06:05:47Z</time>
+	<name>Laos 027</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2fe25d7e-1dd2-11b2-8cc6-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.068167686" lon="106.206816912">
+	<ele>1193.442017</ele>
+	<time>2013-02-16T06:43:30Z</time>
+	<name>Laos 028</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>25aa95ce-1dd2-11b2-9655-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.067234278" lon="106.206501961">
+	<ele>1168.969971</ele>
+	<time>2013-02-16T07:24:40Z</time>
+	<name>Laos 029</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2be7d406-1dd2-11b2-9f01-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.068034649" lon="106.204738617">
+	<ele>1080.791504</ele>
+	<time>2013-02-16T08:22:40Z</time>
+	<name>Laos 030</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2b5963a6-1dd2-11b2-8653-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.066455126" lon="106.204124928">
+	<ele>1003.848145</ele>
+	<time>2013-02-16T09:02:30Z</time>
+	<name>Laos 031</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>25c346c8-1dd2-11b2-9583-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.069287658" lon="106.204961658">
+	<ele>981.050903</ele>
+	<time>2013-02-16T10:46:26Z</time>
+	<name>Laos 032</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>232d8ea0-1dd2-11b2-913e-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.066372752" lon="106.203330159">
+	<ele>907.324463</ele>
+	<time>2013-02-17T01:01:35Z</time>
+	<name>Laos 033</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>289d8b10-1dd2-11b2-9a3e-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.303093433" lon="103.894231915">
+	<ele>962.806519</ele>
+	<time>2013-02-28T10:30:13Z</time>
+	<name>Sapa</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1b8df888-1dd2-11b2-91e0-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.300809860" lon="103.894279838">
+	<ele>1007.711914</ele>
+	<time>2013-02-28T10:58:03Z</time>
+	<name>Sapa 002</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>159387e0-1dd2-11b2-9a68-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.297757745" lon="103.896247983">
+	<ele>1003.390991</ele>
+	<time>2013-03-01T03:49:26Z</time>
+	<name>Sapa 003</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>23248f26-1dd2-11b2-8f3f-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.294530630" lon="103.900294542">
+	<ele>1036.928833</ele>
+	<time>2013-03-01T04:27:08Z</time>
+	<name>Sapa 004</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1894e0ec-1dd2-11b2-8f40-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.292639256" lon="103.901893020">
+	<ele>1075.670288</ele>
+	<time>2013-03-01T04:39:27Z</time>
+	<name>Sapa 005</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>23d34da4-1dd2-11b2-93b1-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.291522384" lon="103.903443336">
+	<ele>1055.914795</ele>
+	<time>2013-03-01T04:47:01Z</time>
+	<name>Sapa 006</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>149d9042-1dd2-11b2-9230-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.292068481" lon="103.906667233">
+	<ele>1038.941284</ele>
+	<time>2013-03-01T05:08:09Z</time>
+	<name>Sapa 007</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>192d3004-1dd2-11b2-8f3e-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.293533444" lon="103.921603918">
+	<ele>1049.431396</ele>
+	<time>2013-03-01T06:22:04Z</time>
+	<name>Sapa 008</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1602c006-1dd2-11b2-93de-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.278065324" lon="103.943602681">
+	<ele>945.653870</ele>
+	<time>2013-03-01T08:09:29Z</time>
+	<name>Sapa 009</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2546d82c-1dd2-11b2-8174-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.269849181" lon="103.957947373">
+	<ele>699.928589</ele>
+	<time>2013-03-01T08:51:45Z</time>
+	<name>Sapa 010</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2e564524-1dd2-11b2-89af-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.269869924" lon="103.957478642">
+	<ele>698.707275</ele>
+	<time>2013-03-01T09:22:11Z</time>
+	<name>Sapa 011</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1a3cd9cc-1dd2-11b2-860a-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.265946746" lon="103.963066459">
+	<ele>660.252747</ele>
+	<time>2013-03-01T09:23:08Z</time>
+	<name>Sapa 012</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>187efbba-1dd2-11b2-860b-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.266386032" lon="103.963072658">
+	<ele>438.484528</ele>
+	<time>2013-03-02T02:15:16Z</time>
+	<name>Sapa 013</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1d375346-1dd2-11b2-8e70-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.263616562" lon="103.967848778">
+	<ele>318.232239</ele>
+	<time>2013-03-02T02:52:03Z</time>
+	<name>Sapa 014</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>15945864-1dd2-11b2-8122-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.253264427" lon="103.979241848">
+	<ele>555.809387</ele>
+	<time>2013-03-02T03:29:09Z</time>
+	<name>Sapa 015</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>190231d8-1dd2-11b2-938d-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.251180291" lon="103.981255174">
+	<ele>584.223389</ele>
+	<time>2013-03-02T03:39:58Z</time>
+	<name>Sapa 016</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>3675bf8c-1dd2-11b2-820a-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.252009392" lon="103.978039265">
+	<ele>625.288757</ele>
+	<time>2013-03-02T03:56:37Z</time>
+	<name>Sapa 017</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>29d3fd7a-1dd2-11b2-9587-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.262094975" lon="103.968043685">
+	<ele>377.034821</ele>
+	<time>2013-03-02T04:45:07Z</time>
+	<name>Sapa 018</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>17edebc0-1dd2-11b2-80c7-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="21.025004268" lon="105.859417796">
+	<ele>32.339691</ele>
+	<time>2013-03-04T04:37:29Z</time>
+	<name>Sapa 019</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>250fc580-1dd2-11b2-9d5d-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="21.029887676" lon="105.837095976">
+	<ele>-53.702866</ele>
+	<time>2013-03-04T05:56:10Z</time>
+	<name>Sapa 020</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>19fad964-1dd2-11b2-9f7f-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="21.027433395" lon="105.835498214">
+	<ele>-51.660049</ele>
+	<time>2013-03-04T06:05:02Z</time>
+	<name>Sapa 021</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>15403ef0-1dd2-11b2-9f80-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="21.027438164" lon="105.835497260">
+	<ele>-40.195480</ele>
+	<time>2013-03-04T06:19:22Z</time>
+	<name>Sapa 022</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>211f32c6-1dd2-11b2-9f80-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="21.038304925" lon="105.850535989">
+	<ele>8.497120</ele>
+	<time>2013-03-04T08:29:24Z</time>
+	<name>Sapa 023</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>22391492-1dd2-11b2-9f80-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="21.059922218" lon="107.430400729">
+	<ele>-3.448326</ele>
+	<time>2013-03-05T07:04:34Z</time>
+	<name>Sapa 024</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>27cf6488-1dd2-11b2-8335-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="21.008647323" lon="107.433259845">
+	<ele>1.647915</ele>
+	<time>2013-03-05T07:53:03Z</time>
+	<name>Sapa 025</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>15810430-1dd2-11b2-8336-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="20.919172525" lon="107.433471084">
+	<ele>141.214279</ele>
+	<time>2013-03-05T08:49:22Z</time>
+	<name>Sapa 026</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2112809e-1dd2-11b2-83ff-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="20.859513402" lon="107.480557799">
+	<ele>66.762001</ele>
+	<time>2013-03-05T11:03:36Z</time>
+	<name>Sapa 027</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>29226f06-1dd2-11b2-966a-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="21.040380836" lon="107.491649032">
+	<ele>-10.654415</ele>
+	<time>2013-03-06T03:36:04Z</time>
+	<name>Sapa 028</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>166f4910-1dd2-11b2-8bc3-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="20.928469539" lon="107.032364607">
+	<ele>7.783436</ele>
+	<time>2013-03-06T07:01:33Z</time>
+	<name>Sapa 029</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>27ba4f30-1dd2-11b2-9be6-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="20.910069466" lon="107.036650181">
+	<ele>1.820029</ele>
+	<time>2013-03-06T07:20:43Z</time>
+	<name>Sapa 030</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2d7f9b14-1dd2-11b2-99b4-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="20.823153853" lon="107.097404480">
+	<ele>-1.066840</ele>
+	<time>2013-03-06T09:16:53Z</time>
+	<name>Sapa 031</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>33a759d2-1dd2-11b2-988d-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="20.808603168" lon="107.112490535">
+	<ele>-6.822286</ele>
+	<time>2013-03-06T09:38:22Z</time>
+	<name>Sapa 032</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>20a90cd6-1dd2-11b2-98aa-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="20.875044823" lon="107.077360034">
+	<ele>-15.926287</ele>
+	<time>2013-03-07T03:01:13Z</time>
+	<name>Sapa 033</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1b72817a-1dd2-11b2-90c2-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.066266179" lon="106.196626663">
+	<ele>879.274841</ele>
+	<time>2013-02-17T02:39:15Z</time>
+	<name>Wpt 001</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1ca0daa6-1dd2-11b2-9fd8-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.067803741" lon="106.204683900">
+	<ele>903.788635</ele>
+	<time>2013-02-17T04:29:52Z</time>
+	<name>Wpt 002</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>3296a37c-1dd2-11b2-918b-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.069065452" lon="106.206043124">
+	<ele>1006.268372</ele>
+	<time>2013-02-17T07:09:41Z</time>
+	<name>Wpt 003</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2c62447a-1dd2-11b2-8494-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="15.069384217" lon="106.205618143">
+	<ele>1044.579468</ele>
+	<time>2013-02-17T07:19:30Z</time>
+	<name>Wpt 004</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>25a94548-1dd2-11b2-8495-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="11.060894132" lon="106.527288914">
+	<ele>27.257080</ele>
+	<time>2013-02-20T04:49:04Z</time>
+	<name>Wpt 005</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>161ca700-1dd2-11b2-8b78-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.356550574" lon="106.358389139">
+	<ele>28.705826</ele>
+	<time>2013-02-21T03:25:07Z</time>
+	<name>Wpt 006</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>183ff410-1dd2-11b2-920a-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.355637431" lon="106.357991934">
+	<ele>38.056561</ele>
+	<time>2013-02-21T03:39:02Z</time>
+	<name>Wpt 007</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>14eeec94-1dd2-11b2-920b-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.328754425" lon="106.379721045">
+	<ele>59.254436</ele>
+	<time>2013-02-21T05:31:18Z</time>
+	<name>Wpt 008</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1eb92208-1dd2-11b2-8569-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.334638953" lon="106.378269076">
+	<ele>43.571960</ele>
+	<time>2013-02-21T06:34:20Z</time>
+	<name>Wpt 009</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1fc2bca4-1dd2-11b2-91f4-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.006111503" lon="105.749319315">
+	<ele>4.275486</ele>
+	<time>2013-02-22T00:59:24Z</time>
+	<name>Wpt 010</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>221ddd8a-1dd2-11b2-9840-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.005445123" lon="105.746855497">
+	<ele>6.966067</ele>
+	<time>2013-02-22T01:02:11Z</time>
+	<name>Wpt 011</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1a687640-1dd2-11b2-9841-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.004224658" lon="105.745342016">
+	<ele>2.848315</ele>
+	<time>2013-02-22T01:05:35Z</time>
+	<name>Wpt 012</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>28e1f818-1dd2-11b2-9841-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.003299594" lon="105.744828939">
+	<ele>2.766060</ele>
+	<time>2013-02-22T01:08:51Z</time>
+	<name>Wpt 013</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>32149058-1dd2-11b2-9841-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.000835657" lon="105.744053245">
+	<ele>3.767493</ele>
+	<time>2013-02-22T01:14:04Z</time>
+	<name>Wpt 014</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>16250d46-1dd2-11b2-9842-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="9.997759104" lon="105.738983154">
+	<ele>-1.033954</ele>
+	<time>2013-02-22T01:37:20Z</time>
+	<name>Wpt 015</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1f9f1006-1dd2-11b2-9842-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.005134463" lon="105.746054769">
+	<ele>0.105529</ele>
+	<time>2013-02-22T02:01:23Z</time>
+	<name>Wpt 016</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>21bd71e8-1dd2-11b2-9842-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.032013297" lon="105.788521528">
+	<ele>6.382789</ele>
+	<time>2013-02-22T02:35:20Z</time>
+	<name>Wpt 017</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1f86c190-1dd2-11b2-9843-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.032011271" lon="105.788552403">
+	<ele>29.146233</ele>
+	<time>2013-02-23T05:59:37Z</time>
+	<name>Wpt 018</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>29a3dadc-1dd2-11b2-94f1-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.032011271" lon="105.788552403">
+	<ele>28.224432</ele>
+	<time>2013-02-23T06:00:33Z</time>
+	<name>Wpt 019</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>27c34964-1dd2-11b2-94f2-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.032011271" lon="105.788552403">
+	<ele>28.392031</ele>
+	<time>2013-02-23T06:00:37Z</time>
+	<name>Wpt 020</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>29b5245e-1dd2-11b2-94f2-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.218989730" lon="103.960038185">
+	<ele>23.555893</ele>
+	<time>2013-02-23T07:50:23Z</time>
+	<name>Wpt 021</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>21ce1db8-1dd2-11b2-94f3-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.217947721" lon="103.961333990">
+	<ele>30.204487</ele>
+	<time>2013-02-23T08:16:11Z</time>
+	<name>Wpt 022</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1a9dfbd0-1dd2-11b2-94f4-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.217176199" lon="103.957453370">
+	<ele>-5.014587</ele>
+	<time>2013-02-23T08:28:33Z</time>
+	<name>Wpt 023</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>27548b28-1dd2-11b2-973f-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.304795504" lon="103.878483772">
+	<ele>17.952694</ele>
+	<time>2013-02-24T06:38:21Z</time>
+	<name>Wpt 024</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2070b5a2-1dd2-11b2-9778-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.184857726" lon="103.966170669">
+	<ele>14.504657</ele>
+	<time>2013-02-25T11:01:06Z</time>
+	<name>Wpt 025</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>172505e8-1dd2-11b2-8fb8-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.189763665" lon="103.964746356">
+	<ele>9.689730</ele>
+	<time>2013-02-25T11:14:12Z</time>
+	<name>Wpt 026</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1b2bd0b8-1dd2-11b2-8fb8-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="10.193173289" lon="103.963991404">
+	<ele>1.350910</ele>
+	<time>2013-02-27T06:58:55Z</time>
+	<name>Wpt 027</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>3463a380-1dd2-11b2-85a9-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="21.032576442" lon="105.848913670">
+	<ele>1470.873535</ele>
+	<time>2013-02-28T02:02:46Z</time>
+	<name>Wpt 028</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2f737904-1dd2-11b2-83b1-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.330632329" lon="103.845270038">
+	<ele>1451.592773</ele>
+	<time>2013-02-28T02:04:53Z</time>
+	<name>Wpt 029</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>33380014-1dd2-11b2-83b1-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.325933695" lon="103.847733498">
+	<ele>1360.569946</ele>
+	<time>2013-02-28T02:15:25Z</time>
+	<name>Wpt 030</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>22e9ac80-1dd2-11b2-9c4e-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.323172927" lon="103.848308921">
+	<ele>1289.407593</ele>
+	<time>2013-02-28T02:30:03Z</time>
+	<name>Wpt 031</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>15a88226-1dd2-11b2-8384-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.318952799" lon="103.850433946">
+	<ele>1167.810059</ele>
+	<time>2013-02-28T03:01:36Z</time>
+	<name>Wpt 032</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>2915b2ac-1dd2-11b2-85a1-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.312058330" lon="103.851598859">
+	<ele>1063.563110</ele>
+	<time>2013-02-28T03:30:53Z</time>
+	<name>Wpt 033</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>332e8fc0-1dd2-11b2-8361-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.303004742" lon="103.856211305">
+	<ele>1182.519897</ele>
+	<time>2013-02-28T04:01:03Z</time>
+	<name>Wpt 034</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>1569d24c-1dd2-11b2-8b7e-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.301394582" lon="103.881249905">
+	<ele>1105.520020</ele>
+	<time>2013-02-28T06:54:10Z</time>
+	<name>Wpt 035</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>19b65398-1dd2-11b2-8458-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+<wpt lat="22.302214265" lon="103.893055558">
+	<ele>995.281067</ele>
+	<time>2013-02-28T07:30:35Z</time>
+	<name>Wpt 036</name>
+	<sym>Red Map Pin</sym>
+	<extensions>
+		<delorme:objectid>28c8ec38-1dd2-11b2-831a-4d4845395644</delorme:objectid>
+		<delorme:pnsymbol>1</delorme:pnsymbol>
+	</extensions>
+</wpt>
+</gpx>

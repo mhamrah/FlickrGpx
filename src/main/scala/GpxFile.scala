@@ -34,7 +34,7 @@ object GpxFile {
       ,elev = (node \ "ele")
       ,name = (node \ "name").text
       ,uniqueId = (node \ "extensions" \ "objectid").text
-      ,time = (node \ "time").text.toDateTime 
+      ,time = (node \ "time").text.toDateTime.withZone(DateTimeZone.forID("UTC")) 
       )
   }
 
