@@ -4,6 +4,10 @@ import com.michaelhamrah.flickrgpx.GpxFile._
 import com.michaelhamrah.flickrgpx.FlickrUpdater._
 
 import com.github.nscala_time.time.Imports._
+import dispatch._
+import scala.language.postfixOps
+import Defaults._
+
 
 object Main {
   def main(args: Array[String]) {
@@ -22,9 +26,17 @@ object Main {
         val results = searchByDay(day._1)
         val count = results \ "@total"
         println(s"${day._1} - ${day._2.size} - ${count}")
+
+        val loc = day._2.head
+        val svc = url(s"https://maps.googleapis.com/maps/api/timezone/xml?location=${loc.lat},${loc.long}&timestamp=1331161200&sensor=false")
+      val locTz = Http(svc OK as.xml.Elem)
+
+      val tz = locTz() \ "time_zone_id" text
+
+      println(s"Timezone: $tz")
        
         (results \ "photo").map(photo => {
-          val dateTaken = new DateTime((photo \ "@datetaken").text.replace(' ', 'T'), DateTimeZone.forID("EST"))
+          val dateTaken = new DateTime((photo \ "@datetaken").text.replace(' ', 'T'), DateTimeZone.forID(tz))
 
           var currentDiff = 1000000000
           var currentWaypoint:Waypoint = null 
@@ -37,7 +49,10 @@ object Main {
             }
           })
 
-          println(s"${currentDiff} - ${photo \ "@id"} - ${currentWaypoint.time}" )
+          //println(s"${currentDiff} - ${photo \ "@id"} - ${currentWaypoint.time}" )
+          //
+          FlickrUpdater.updateGpx((photo \ "@id").text, currentWaypoint)
+
         })
     })
   }
