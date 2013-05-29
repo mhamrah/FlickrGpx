@@ -40,7 +40,8 @@ object FlickrUpdater {
 
     val response = getResponse(request)
 
-    println(XML.loadString(response.getBody()))
+    val stat = XML.loadString(response.getBody()) \ "@stat"
+    println(s"photoId: ${photo_id}, ${stat}")
 
   }
 
