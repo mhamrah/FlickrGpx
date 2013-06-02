@@ -46,11 +46,11 @@ object FlickrUpdater {
   }
 
   def getResponse(request: OAuthRequest) = {
-    val secret = "7573c50cc6fb1820"
-    val key = "eb1fe64060550dec4eec1519bf24ae9f"
+    val secret = System.getenv("flickr_secret")
+    val key = System.getenv("flickr_key")
 
     val service = new ServiceBuilder().provider(classOf[FlickrApi]).apiKey(key).apiSecret(secret).build()
-    val token = new Token("72157633724877320-679bb3e4ffbad588" , "61e8d20f28cfe1c0")
+    val token = new Token(System.getenv("flickr_token"), System.getenv("flickr_token_secret"))
 
     service.signRequest(token, request);
     request.send();

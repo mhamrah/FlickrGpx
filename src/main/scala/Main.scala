@@ -1,17 +1,23 @@
 package com.michaelhamrah.flickrgpx
 
-import com.michaelhamrah.flickrgpx.GpxFile._
-import com.michaelhamrah.flickrgpx.FlickrUpdater._
+import scala.Array.canBuildFrom
 
-import com.github.nscala_time.time.Imports._
-import dispatch._
-import scala.language.postfixOps
-import Defaults._
+import com.github.nscala_time.time.Imports.DateTime
+import com.github.nscala_time.time.Imports.DateTimeZone
+import com.github.nscala_time.time.Imports.Duration
+import com.michaelhamrah.flickrgpx.FlickrUpdater.searchByDay
+import com.michaelhamrah.flickrgpx.GpxFile.GetWaypointsFromGpxFile
 
+import akka.actor.Actor
 import akka.actor.ActorSystem
-import akka.actor._
-import akka.actor.ActorDSL._
-import akka.routing._
+import akka.actor.Props
+import akka.actor.actorRef2Scala
+import akka.routing.RoundRobinRouter
+import dispatch.Defaults.executor
+import dispatch.Http
+import dispatch.as
+import dispatch.implyRequestHandlerTuple
+import dispatch.url
 
 object Main {
   def main(args: Array[String]) {
